@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "zulu.trade.app.debug",
+    "sha256_cert_fingerprints":
+    ["67:AF:C3:87:8C:DF:E1:94:39:22:DD:80:B2:35:6B:4E:2B:59:81:1A:57:F6:FC:A0:02:9B:26:86:0E:2B:77:F3"]
+  }
+}]
